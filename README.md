@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhasker-007
 - 👀 I’m interested in SAP UI5 Projects
-- 🌱 I’m currently learning SAP ui5 custom App Implementations
+- 🌱 I’m currently learning SAP ui5 custom App development
 - 💞️ I’m looking to collaborate on custom App Implementations
 - 📫 Mail me on : bhaskerreddy5112@gmail.com
 
